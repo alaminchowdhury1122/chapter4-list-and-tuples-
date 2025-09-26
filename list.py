@@ -24,3 +24,6 @@ print(l1)
 
 l1.remove(1)
 print(l1)
+
+
+print(type(friend))
