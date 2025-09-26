@@ -20,3 +20,7 @@ print(friend)
 l1 = [1,4, 5,6 ,7 ,67, 9, 2,4324,54,55345,543,43,453]
 l1.sort()
 print(l1)
+
+
+l1.remove(1)
+print(l1)
