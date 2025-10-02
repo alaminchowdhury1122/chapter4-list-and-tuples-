@@ -26,4 +26,4 @@ l1.remove(1)
 print(l1)
 
 
-print(type(friend))
+print(type(friend))e
